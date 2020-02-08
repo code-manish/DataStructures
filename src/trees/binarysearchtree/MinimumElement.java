@@ -1,4 +1,4 @@
-package trees.bst;
+package trees.binarysearchtree;
 
 /*
 In BST, left most element has the lowest value - find node such that node.left == null

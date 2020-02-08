@@ -1,4 +1,4 @@
-package trees.bst;
+package trees.binarysearchtree;
 
 public class MaximumElement {
 

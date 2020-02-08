@@ -1,4 +1,4 @@
-package trees;
+package trees.binarytree;
 
 public class LevelOrderTraversal {
     Node root;

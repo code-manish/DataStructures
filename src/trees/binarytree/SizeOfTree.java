@@ -1,4 +1,4 @@
-package trees;
+package trees.binarytree;
 
 public class SizeOfTree {
     public static void main(String[] args) {
